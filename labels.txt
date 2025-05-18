@@ -1,0 +1,16 @@
+0 spoon
+1 fork
+2 casket
+3 watch
+4 scissors
+5 pen
+6 bottle
+7 phone
+8 keys
+9 cap
+10 book
+11 lighter
+12 charger
+13 crumpled_paper
+14 tissues
+15 wallet
